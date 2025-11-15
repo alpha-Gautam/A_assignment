@@ -1,0 +1,46 @@
+
+Problem Statement:
+Title: Loan Default Predic1on and Evalua1on Criteria
+Background: For ﬁnancial ins1tu1ons, the ability to predict loan defaults is a cri1cal factor
+in managing ﬁnancial risk, maintaining proﬁtability, and ensuring sustainable growth.
+Defaulted loans can signiﬁcantly disrupt the ﬁnancial health of an ins1tu1on, as they lead to
+substan1al losses and may poten1ally aﬀect the ins1tu1on's credibility. Tradi1onal risk
+assessment methods, which largely rely on a borrower's credit score, income, and collateral,
+have not been en1rely eﬃcient in predic1ng loan defaults. This ineﬃciency could be
+aFributed to their inability to capture complex paFerns and rela1onships in the data,
+thereby necessita1ng a more advanced approach.
+Problem: The candidate needs to predict the likelihood of a borrower defaul1ng on a loan
+using a machine learning model. This model should consider a variety of factors that
+poten1ally inﬂuence a borrower's ability to repay a loan, such as income, employment
+status, credit score, loan amount, interest rate, and other relevant variables. The predic1on
+model should also handle data imbalances, missing values, and outliers eﬀec1vely.
+Second, the ability to address the problem, including the understanding of the problem, the
+proposed solu1on, the ability to build a predic1ve model, and the understanding of machine
+learning algorithms, data analysis, data pre-processing, feature engineering, and model
+evalua1on methods.
+In terms of the data science interview, the evalua1on criteria should encompass the
+following:
+§ Problem Understanding: The candidate's understanding of the loan default
+predic1on problem.
+§ Proposed Solu4on: Their proposed approach to solve the problem, includes data
+preprocessing, feature engineering, model selec1on, and model training.
+§ Model Development: The candidate's ability to develop a predic1ve model, including
+handling imbalanced data, missing values, and outliers.
+§ Model Evalua4on: Their understanding of various model evalua1on metrics relevant
+to the problem, such as precision, recall, F1 score, AUC-ROC, etc.
+§ Knowledge and Experience: Their understanding of machine learning algorithms,
+data analysis, and other relevant areas.
+§
+Evalua8on Criteria:
+§ EDA and pre-processing
+§ Feature importance
+§ Modelling and results
+§ Business solu1on/ Interpreta1on of results obtained
+§ How to handle an imbalance dataset
+System Design Tasks:
+§ Design system architecture to deploy this ML Model in produc1on
+§ How do you perform canary build?
+§ What should be the strategy for ML Model Monitoring?
+§ How do you perform load and stress tes1ng?
+§ How do you track, monitor and audit ML training?
+§ Design framework for con1nuous delivery and automa1on of machine learning tasks.
